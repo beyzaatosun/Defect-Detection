@@ -31,5 +31,6 @@ DAGM2007 veri kümesi, her biri bir kusur sınıfına karşılık gelen 10 alt k
 1.4.Super-Resolution Generative Adversarial Networks (SRGAN) Uygulanması<br />
 1.5.YoloV5<br />
 
+:checkered_flag:Gerçek dünya problemlerinde uygun verinin elde edilmesi zorluklarına karşı yenilik olarak geliştirdiğimiz B2Net adlı algoritma ile suni ve yüksek çözünürlüklü verileri adı sayılan tespit algoritmalarını eğitmek için kullanarak NEU veri seti üzerinde %75 ortalama hassaslık değerini, BSData veri seti üzerinde %78 ortalama hassaslık değerini, Magnetic Tile veri seti üzerinde yaklaşık %94 ortalama hassaslık değerini elde ettik.
 
 
