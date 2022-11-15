@@ -7,6 +7,7 @@
 
 1-NEU Veri Seti bu bağlantı kullanılarak indirilebilir.
 Toplam 1800 adet 200x200 boyutunda gri tonlamalı görüntüden oluşmaktadır. Altı sınıf mevcuttur ve her sınıfta 300 örnek vardır. Sınıflar, haddelenmiş ölçek (rolled-in scale (RS)), yamalar (patches (Pa)), çatlama (crazing (Cr)), çukurlu yüzey (pitted surface (PS)), kalıntı (inclusion (In)) ve çizikler (scratches (Sc)) oluşmaktadır. 
+![image](https://user-images.githubusercontent.com/48567287/201970817-8e6a6d0a-c96e-4a3f-85cf-6a2c102f7e86.png)
 
 2-BSData Veri Seti bu bağlantı kullanılarak indirilebilir.
 Bu sınıf çukurlaşma (pitting) hataları içermektedir. Toplamda 1104 RGB görüntü ve 394 açıklamalı (annotation) RGB görüntü içermektedir.  Açıklama aracı etiketiyle yapılan açıklamalar JSON formatında mevcuttur. 
