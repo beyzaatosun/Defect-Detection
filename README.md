@@ -4,6 +4,7 @@
 :pushpin: Bu çalışmada NEU veri setine ek olarak KolektorSDD, Magnetic-Tile ve BSData veri setleri kullanılacaktır. Kusur tespiti için metal yüzeylerdeki hatalara yönelik geliştirdiğimiz B2Net adlı algoritma görsel verilerden yararlanmaktadır. B2Net, veri çoğaltma adımında bir çekişmeli-üretici ağ ile çeşitli klasik yöntemleri sentezlerken ve yüzey kusurlarının yerini ve türünü tahmin eden çıktılar üretmektedir. Böylece üretim hatalarının otomatik tespiti için yapay zekanın kullanılması, üretim maliyetinin, hızının azaltılmasına olanak tanır. 
 
 :book: Veri Setleri
+
 1-NEU Veri Seti bu bağlantı kullanılarak indirilebilir.
 Toplam 1800 adet 200x200 boyutunda gri tonlamalı görüntüden oluşmaktadır. Altı sınıf mevcuttur ve her sınıfta 300 örnek vardır. Sınıflar, haddelenmiş ölçek (rolled-in scale (RS)), yamalar (patches (Pa)), çatlama (crazing (Cr)), çukurlu yüzey (pitted surface (PS)), kalıntı (inclusion (In)) ve çizikler (scratches (Sc)) oluşmaktadır. 
 
