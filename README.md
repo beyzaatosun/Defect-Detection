@@ -23,7 +23,7 @@ Magnetic Tile veri seti beş kusur sınıf türünden oluşmaktadır. Bu sınıf
 DAGM2007 veri kümesi, her biri bir kusur sınıfına karşılık gelen 10 alt kümeden oluşmaktadır. Her sınıf, 512×512 boyutunda doku arka planlarında bir kusurlu 1000 hatasız görüntü ve 150 hatalı görüntüye sahiptir.
 ![image](https://user-images.githubusercontent.com/48567287/201970973-72d259bc-6606-4692-8c91-27f8ac0cd2f0.png)
 
-:paperclip: Modelin Tasarlanması
+:triangular_ruler: Modelin Tasarlanması
 
 1.1.Data Augmentation<br />
 1.2.Görüntülerde Yoğunluk Dönüşüm İşlemleri<br />
