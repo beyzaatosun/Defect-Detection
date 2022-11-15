@@ -25,11 +25,11 @@ DAGM2007 veri kümesi, her biri bir kusur sınıfına karşılık gelen 10 alt k
 
 :paperclip: Modelin Tasarlanması
 
-1.1.Data Augmentation
-1.2.Görüntülerde Yoğunluk Dönüşüm İşlemleri
-1.3.Generative Adversarial Networks(GAN) Uygulanması
-1.4.Super-Resolution Generative Adversarial Networks (SRGAN) Uygulanması
-1.5.YoloV5
+1.1.Data Augmentation<br />
+1.2.Görüntülerde Yoğunluk Dönüşüm İşlemleri<br />
+1.3.Generative Adversarial Networks(GAN) Uygulanması<br />
+1.4.Super-Resolution Generative Adversarial Networks (SRGAN) Uygulanması<br />
+1.5.YoloV5<br />
 
 
 
