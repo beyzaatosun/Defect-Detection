@@ -11,11 +11,16 @@ Toplam 1800 adet 200x200 boyutunda gri tonlamalı görüntüden oluşmaktadır. 
 
 2-BSData Veri Seti bu bağlantı kullanılarak indirilebilir.
 Bu sınıf çukurlaşma (pitting) hataları içermektedir. Toplamda 1104 RGB görüntü ve 394 açıklamalı (annotation) RGB görüntü içermektedir.  Açıklama aracı etiketiyle yapılan açıklamalar JSON formatında mevcuttur. 
+![image](https://user-images.githubusercontent.com/48567287/201970916-d112d50d-0537-4afa-bf7d-b11f5ce3d561.png)
+
 
 3-Magnetic Tile Veri Seti bu bağlantı kullanılarak indirilebilir.
 Magnetic Tile veri seti beş kusur sınıf türünden oluşmaktadır. Bu sınıflar hava deliği (blowhole), çatlak (crack), kırılma (break), yıpranma (fray) ve düzensiz (uneven) hataları içermektedir. Hava deliği (blowhole) 115 görüntü, çatlak (crack) 85 görüntü, kırılma (break) 57 görüntü, yıpranma (fray) 32 görüntü ve düzensiz (uneven) 103 görüntü içermektedir. Toplamda 392 görüntü ve 392 açıklamalı (annotation) görüntü içermektedir. 
+![image](https://user-images.githubusercontent.com/48567287/201970946-8b3c6da0-651c-4e39-8b1a-ee22d89a2fd0.png)
+
 
 4-DAGM 2007 Veri Seti bu bağlantı kullanılarak indirilebilir.
 DAGM2007 veri kümesi, her biri bir kusur sınıfına karşılık gelen 10 alt kümeden oluşmaktadır. Her sınıf, 512×512 boyutunda doku arka planlarında bir kusurlu 1000 hatasız görüntü ve 150 hatalı görüntüye sahiptir.
+![image](https://user-images.githubusercontent.com/48567287/201970973-72d259bc-6606-4692-8c91-27f8ac0cd2f0.png)
 
 
