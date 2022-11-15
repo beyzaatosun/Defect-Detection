@@ -1,2 +1,5 @@
 # Defect-Detection
-Ürün kalitesinin izlenmesi; üretici firmalar açısından kritik, maliyeti belirleyen ve zaman alan bir süreç olmuştur. Ürün kalite testleri ise yavaş ve verimsizdir. İnsan denetiminde doğruluk büyük ölçüde her bir denetçiye bağlıdır ve geleneksel otomatik sistemler hem pahalıdır hem de uygulanması zordur
+:triangular_flag_on_post: Ürün kalitesinin izlenmesi; üretici firmalar açısından kritik, maliyeti belirleyen ve zaman alan bir süreçtir. Kişiye bağlı kalite kontrolü; düşük doğruluk, zaman kaybı, yüksek işgücü ve kaynak israfı gibi verimsizliklere neden olmaktadır.  Bununla birlikte, yüzey kusur tespiti, aydınlatma, ışık yansıması ve ürün malzemesi gibi birçok çevresel faktörden kolayca etkilenir. Bu faktörler, yüzey kusur tespitinin zorluğunu önemli ölçüde artırır. 
+
+:pushpin: Bu çalışmada NEU veri setine ek olarak KolektorSDD, Magnetic-Tile ve BSData veri setleri kullanılacaktır. Kusur tespiti için metal yüzeylerdeki hatalara yönelik geliştirdiğimiz B2Net adlı algoritma görsel verilerden yararlanmaktadır. B2Net, veri çoğaltma adımında bir çekişmeli-üretici ağ ile çeşitli klasik yöntemleri sentezlerken ve yüzey kusurlarının yerini ve türünü tahmin eden çıktılar üretmektedir. Böylece üretim hatalarının otomatik tespiti için yapay zekanın kullanılması, üretim maliyetinin, hızının azaltılmasına olanak tanır. 
+
